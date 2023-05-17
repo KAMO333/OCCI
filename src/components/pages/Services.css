@@ -1,0 +1,7 @@
+@media screen and (max-width: 820px) {
+    .services {
+        padding-top: 2rem;
+        width: 100%;
+        flex-direction: column;
+      }
+}
